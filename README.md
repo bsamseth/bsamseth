@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<!-- TODO: Add hide_rank=true when https://github.com/anuraghazra/github-readme-stats/pull/110 is merged. -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bsamseth&show_icons=true&count_private=true&theme=dracula&hide_title=true" />
+
+I'm Bendik, a data scientist working for an EdTech company out of Oslo, Norway.
+
+- :computer: Currently working on: It's secret! :hushed:
+- :notebook_with_decorative_cover: Currently learning: [FastAPI](https://fastapi.tiangolo.com/) and [Serverless](https://www.serverless.com/)
+- :mailbox_with_mail: Reach me: [b.samseth@gmail.com](mailto:b.samseth@gmail.com)
+
 <!--
 **bsamseth/bsamseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://visitor-badge.glitch.me/badge?page_id=github-bsamseth-bsamseth)
