@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=github-bsamseth-bsamseth)
+
+<img width="0" height="0" src="http://hits.dwyl.com/bsamseth/bsamseth.svg"/>
