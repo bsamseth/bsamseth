@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="0" height="0" src="http://hits.dwyl.com/bsamseth/bsamseth.svg"/>
+<img width="1" height="1" src="http://hits.dwyl.com/bsamseth/bsamseth.svg"/>
