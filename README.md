@@ -6,7 +6,7 @@
 I'm Bendik, a data scientist working for an EdTech company out of Oslo, Norway.
 
 - :computer: Currently working on: It's secret! :hushed:
-- :notebook_with_decorative_cover: Currently learning: [FastAPI](https://fastapi.tiangolo.com/) and [Serverless](https://www.serverless.com/)
+- :notebook_with_decorative_cover: Currently learning: [Haskell](https://www.haskell.org/)
 - :mailbox_with_mail: Reach me: [b.samseth@gmail.com](mailto:b.samseth@gmail.com)
 
 <!--
