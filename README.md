@@ -6,7 +6,7 @@
 I'm Bendik, a data scientist working for an EdTech company out of Oslo, Norway.
 
 - :computer: Currently working on: It's secret! :hushed:
-- :notebook_with_decorative_cover: Currently learning: [Haskell](https://www.haskell.org/)
+- :notebook_with_decorative_cover: Currently learning: [Go!](https://go.dev/)
 - :mailbox_with_mail: Reach me: [b.samseth@gmail.com](mailto:b.samseth@gmail.com)
 
 <!--
