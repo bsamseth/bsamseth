@@ -3,7 +3,7 @@
 <!-- TODO: Add hide_rank=true when https://github.com/anuraghazra/github-readme-stats/pull/110 is merged. -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=bsamseth&show_icons=true&count_private=true&theme=dracula&hide_title=true" />
 
-I'm Bendik, a data scientist working for an EdTech company out of Oslo, Norway.
+I'm Bendik, a data scientist working for an consultancy company out of Oslo, Norway.
 
 - :computer: Currently working on: It's secret! :hushed:
 - :notebook_with_decorative_cover: Currently learning: Rust!
